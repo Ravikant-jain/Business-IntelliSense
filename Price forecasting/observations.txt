@@ -22,3 +22,8 @@ Winter: Hot beverages like hot chocolate and milky coffees drive sales. inc by +
 Spring: Increased consumption for baking and lighter milk-based drinks. inc by +4
 Summer: Peak season for ice cream, smoothies, and other refreshing dairy products. inc by +4
 Fall: Gradual decline with less need for hot beverages and outdoor activities. inc by -3 
+
+
+Basic economics
+ 100-200 liter per day 
+ 45-60 rupees per liter
